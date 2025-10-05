@@ -860,7 +860,7 @@ spawn(function()
                 joinServerByJobId(cleanJobId)
             end
         end
-        wait(0.5)
+        wait()
     end
 end)
 
